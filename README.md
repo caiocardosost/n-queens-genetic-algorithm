@@ -44,7 +44,7 @@ python src/n_queens.py
 
 The goal of this project is to find valid solutions for the N-Queens problem by minimizing diagonal conflicts between queens through evolutionary optimization techniques.
 
-## Author
+## Authors
 
 Caio Cardoso dos Santos
 
